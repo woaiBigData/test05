@@ -1,0 +1,15 @@
+172.18.8.19
+172.18.8.20
+172.18.8.21
+172.18.8.22
+172.18.8.22
+密码：1234567
+IDC机房账号密码：
+连接VPN
+PPTP/L2TP皆可
+Server IP：103.28.213.234
+Username: de
+Password: de@2018
+
+
+·-tdcadmin transwarp123
